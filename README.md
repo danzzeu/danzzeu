@@ -8,7 +8,7 @@
     <a href="https://www.youtube.com/playlist?list=PLiduNjzudndvROdIuM9HornT6zeRk3FDn" rel="follow" target="_blank">Youtube Music Playlist</a>
 </blockquote>
 
-![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/danzzeu/count.svg)
 
 <br>
 
