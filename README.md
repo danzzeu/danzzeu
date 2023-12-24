@@ -8,6 +8,7 @@ const me = {
   name: "Daniel",
   lastName: "Mazzeu",
   age: 33,
+  specialty: "Front-End Developer",
   skills: {
       skill1:  "Html5",
       skill2:  "Css3",
