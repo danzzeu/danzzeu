@@ -42,7 +42,7 @@ const me = {
 };
 ```
 
-## My Setup
+## About Me
 > [!NOTE]
 > Notebook Dell Vostro 3520 i7 <br />
 > Processor Intel i7 1.70 GHz 12th Gen <br />
