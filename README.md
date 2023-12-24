@@ -1,6 +1,7 @@
 ## Hi my name is Daniel Mazzeu 😃
 <blockquote><em>Programming is actually what I enjoy doing most. The ability to create something from absolute scratch, using only code is something that fascinates me. This universe is an eternal and exciting learning experience.</em></blockquote>
 
+## My Skills
 ```javascript
 const me = {
   name: "Daniel",
@@ -23,8 +24,6 @@ const me = {
 };
 ```
 
-<br/>
-
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=danzzeu&theme=solarized-dark&hide_border=false&border_radius=5&card_width=970&background=EBEBEB00" alt="My Status" /></a>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danzzeu&theme=transparent&langs_count=8&hide_border=false&background=EBEBEB00&border_radius=5&card_width=970)
@@ -34,19 +33,6 @@ const me = {
 🌐 <a href="https://www.youtube.com/playlist?list=PLiduNjzudndvROdIuM9HornT6zeRk3FDn" rel="follow" target="_blank">Google Play Store</a> <br />
 🌐 <a href="https://www.twitch.tv/danzzeu" rel="follow" target="_blank">Twitch</a> <br />
 🌐 <a href="https://www.youtube.com/playlist?list=PLiduNjzudndvROdIuM9HornT6zeRk3FDn" rel="follow" target="_blank">Youtube</a> <br />
-
-## My Skills
-🖥️ **HTML5** <br />
-🖥️ **CSS3** <br />
-🖥️ **Bootstrap** <br />
-🖥️ **Javascript** <br />
-🖥️ **Typescript** <br />
-🖥️ **Jquery** <br />
-🖥️ **Python** <br />
-🖥️ **Php** <br />
-🖥️ **Mysql** <br />
-🖥️ **Git** <br />
-🖥️ **React Native** <br />
 
 ## My Setup
 ⚙️ **Notebook Dell Vostro 3520 i7** <br />
