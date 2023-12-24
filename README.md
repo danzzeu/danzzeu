@@ -9,7 +9,7 @@
 
 | My Links | My Skills | My Setup |
 | :--------         | :--------         | :--------         |
-| 🌐 <a href="https://www.linkedin.com/in/danielmazzeulk" rel="follow" target="_blank">Linkedin</a>&nbsp;&nbsp;&nbsp;     | 🖥️ **HTML5**     | ⚙️ **Notebook Dell Vostro 3520 i7**     |
+| 🌐 <a href="https://www.linkedin.com/in/danielmazzeulk" rel="follow" target="_blank">Linkedin</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     | 🖥️ **HTML5**     | ⚙️ **Notebook Dell Vostro 3520 i7**     |
 | 🌐 <a href="https://www.youtube.com/playlist?list=PLiduNjzudndvROdIuM9HornT6zeRk3FDn" rel="follow" target="_blank">Google Play Store</a>     | 🖥️ **CSS3**     | ⚙️ **Processor Intel i7 1.70 GHz 12th Gen**     |
 | 🌐 <a href="https://www.twitch.tv/danzzeu" rel="follow" target="_blank">Twitch</a>     | 🖥️ **Bootstrap**     | ⚙️ **Memory 16GB DDR4**     |
 | 🌐 <a href="https://www.youtube.com/playlist?list=PLiduNjzudndvROdIuM9HornT6zeRk3FDn" rel="follow" target="_blank">Youtube</a>     | 🖥️ **Bootstrap**     | ⚙️ **Graphics Card NVIDIA GeForce MX 550**     |
