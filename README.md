@@ -1,4 +1,5 @@
-## Olá eu sou o Daniel Mazzeu 😃
+## Hi my name is Daniel Mazzeu 😃
+<p></p>
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=danzzeu&theme=solarized-dark&hide_border=true&border_radius=5&card_width=950&background=EBEBEB00" alt="GitHub Streak" /></a>
 
@@ -8,8 +9,8 @@
 🌐 <a href="https://www.twitch.tv/danzzeu" rel="follow" target="_blank">Twitch</a> <br/>
 🌐 <a href="https://www.youtube.com/playlist?list=PLiduNjzudndvROdIuM9HornT6zeRk3FDn" rel="follow" target="_blank">Youtube</a> <br/>
 
-## My Playlist
-🌐 <a href="https://www.youtube.com/playlist?list=PLiduNjzudndvROdIuM9HornT6zeRk3FDn" rel="follow" target="_blank">Youtube Playlist</a>
+## My Favorite Playlist
+🎵 <a href="https://www.youtube.com/playlist?list=PLiduNjzudndvROdIuM9HornT6zeRk3FDn" rel="follow" target="_blank">Youtube Playlist</a>
 
 ## My Skills
 🖥️ **HTML5** <br/>
