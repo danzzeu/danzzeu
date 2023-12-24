@@ -6,16 +6,16 @@
 
 
 ## Minhas Skills
-🖥️ HTML5 <br/>
-🖥️ CSS3 <br/>
-🖥️ Javascript <br/>
-🖥️ Typescript <br/>
-🖥️ Jquery <br/>
-🖥️ Python <br/>
-🖥️ Php <br/>
-🖥️ Mysql <br/>
-🖥️ Git <br/>
-🖥️ Visul Studio <br/>
+🖥️ **HTML5** <br/>
+🖥️ **CSS3** <br/>
+🖥️ **Javascript** <br/>
+🖥️ **Typescript** <br/>
+🖥️ **Jquery** <br/>
+🖥️ **Python** <br/>
+🖥️ **Php** <br/>
+🖥️ **Mysql** <br/>
+🖥️ **Git** <br/>
+🖥️ **Visul Studio** <br/>
 
 ## Meus Status
 ![status1](https://github-readme-stats.vercel.app/api?username=danzzeu&theme=merko)
