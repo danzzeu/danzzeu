@@ -1,7 +1,10 @@
 ## Olá eu sou o Daniel Mazzeu 😃
-![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)
-![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)
+## Playlist Youtube
+<a href="https://www.youtube.com/playlist?list=PLiduNjzudndvROdIuM9HornT6zeRk3FDn" rel="follow">🎵 Linkedin</a>&nbsp;&nbsp;
+<a href="https://www.youtube.com/playlist?list=PLiduNjzudndvROdIuM9HornT6zeRk3FDn" rel="follow">🎵 Google Play Store</a>
+<a href="https://www.youtube.com/playlist?list=PLiduNjzudndvROdIuM9HornT6zeRk3FDn" rel="follow">🎵 Twitch</a>
+<a href="https://www.youtube.com/playlist?list=PLiduNjzudndvROdIuM9HornT6zeRk3FDn" rel="follow">🎵 Youtube</a>
+<a href="https://www.youtube.com/playlist?list=PLiduNjzudndvROdIuM9HornT6zeRk3FDn" rel="follow">🎵 Youtube Playlist</a>
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=danzzeu&theme=solarized-dark&hide_border=true&border_radius=5&card_width=950&background=EBEBEB00" alt="GitHub Streak" /></a>
 
@@ -24,7 +27,3 @@
 ⚙️ **64-bit System** <br/>
 ⚙️ **Mouse Dell KM5221W** <br/>
 ⚙️ **Keyboard Dell KM5221W** <br/>
-
-
-## Playlist Youtube
-<a href="https://www.youtube.com/playlist?list=PLiduNjzudndvROdIuM9HornT6zeRk3FDn" rel="follow">🎵 Youtube Playlist</a>
