@@ -10,15 +10,15 @@
 <a href="https://www.youtube.com/playlist?list=PLiduNjzudndvROdIuM9HornT6zeRk3FDn" rel="follow">🌐 Youtube Playlist</a>
 
 ## Minhas Skills
-🖥️ **HTML5**&nbsp;&nbsp;&nbsp;
-🖥️ **CSS3**&nbsp;&nbsp;&nbsp;
-🖥️ **Javascript**&nbsp;&nbsp;&nbsp;
-🖥️ **Typescript**&nbsp;&nbsp;&nbsp;
-🖥️ **Jquery**&nbsp;&nbsp;&nbsp;
-🖥️ **Python**&nbsp;&nbsp;&nbsp;
-🖥️ **Php**&nbsp;&nbsp;&nbsp;
-🖥️ **Mysql**&nbsp;&nbsp;&nbsp;
-🖥️ **Git** <br/>
+🖥️ **HTML5** <br/>
+🖥️ **CSS3** <br/>
+🖥️ **Javascript** <br/>
+🖥️ **Typescript** <br/>
+🖥️ **Jquery** <br/>
+🖥️ **Python** <br/>
+🖥️ **Php** <br/>
+🖥️ **Mysql** <br/>
+🖥️ **Git**
 
 ## Meu Setup
 ⚙️ **Notebook Dell Vostro 3520 i7** <br/>
