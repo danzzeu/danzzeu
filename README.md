@@ -7,7 +7,7 @@
 
 <br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danzzeu&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)
 
 ## My Links
 🌐 <a href="https://www.linkedin.com/in/danielmazzeulk" rel="follow" target="_blank">Linkedin</a> <br/>
