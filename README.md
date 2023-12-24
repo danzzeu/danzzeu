@@ -12,12 +12,12 @@
 ## Minhas Skills
 🖥️ **HTML5**&nbsp;&nbsp;&nbsp;
 🖥️ **CSS3**&nbsp;&nbsp;&nbsp;
-🖥️ **Javascript** <br/>
-🖥️ **Typescript** <br/>
-🖥️ **Jquery** <br/>
-🖥️ **Python** <br/>
-🖥️ **Php** <br/>
-🖥️ **Mysql** <br/>
+🖥️ **Javascript**&nbsp;&nbsp;&nbsp;
+🖥️ **Typescript**&nbsp;&nbsp;&nbsp;
+🖥️ **Jquery**&nbsp;&nbsp;&nbsp;
+🖥️ **Python**&nbsp;&nbsp;&nbsp;
+🖥️ **Php**&nbsp;&nbsp;&nbsp;
+🖥️ **Mysql**&nbsp;&nbsp;&nbsp;
 🖥️ **Git** <br/>
 
 ## Meu Setup
