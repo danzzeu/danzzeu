@@ -1,5 +1,5 @@
 ## Hi my name is Daniel Mazzeu 😃
-> [!TIP]
+> [!NOTE]
 > <em>Programming is actually what I enjoy doing most. The ability to create something from absolute scratch, using only code is something that fascinates me. This universe is an eternal and exciting learning experience.</em>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=danzzeu&theme=merko&hide_border=true&border_radius=5&date_format=j%2Fn%5B%2FY%5D&mode=weekly&card_width=970)](https://git.io/streak-stats)
