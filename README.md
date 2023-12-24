@@ -19,6 +19,7 @@
 🖥️ **Php** <br/>
 🖥️ **Mysql** <br/>
 🖥️ **Git**
+🖥️ **React Native** [Aprendendo]
 
 ## Meu Setup
 ⚙️ **Notebook Dell Vostro 3520 i7** <br/>
