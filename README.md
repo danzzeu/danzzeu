@@ -19,8 +19,8 @@
 
 
 ## Meus Status
-![naosei](https://github-readme-stats.vercel.app/api?username=danzzeu&theme=merko)
-![naosei2](https://github-readme-stats.vercel.app/api/top-langs/?username=danzzeu&theme=merko)
+![status1](https://github-readme-stats.vercel.app/api?username=danzzeu&theme=merko)
+![status2](https://github-readme-stats.vercel.app/api/top-langs/?username=danzzeu&theme=merko)
 
 
 ## Meu Setup
@@ -34,7 +34,7 @@
 
 
 ## Playlist Youtube
-![Playlist](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white)(https://www.youtube.com/playlist?list=PLiduNjzudndvROdIuM9HornT6zeRk3FDn)
+![[Playlist](https://www.youtube.com/playlist?list=PLiduNjzudndvROdIuM9HornT6zeRk3FDn)](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white)
 
 
 ## Indicação de plataforma de estudos
