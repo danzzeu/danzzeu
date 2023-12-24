@@ -12,7 +12,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danzzeu&theme=algolia&langs_count=8&hide_border=true&background=EBEBEB00&border_radius=5&card_width=1000)
 
-## My Skills
+## About Me
 ```javascript
 const me = {
     name: "Daniel",
@@ -42,7 +42,7 @@ const me = {
 };
 ```
 
-## About Me
+## My Setup
 > [!NOTE]
 > Notebook Dell Vostro 3520 i7 <br />
 > Processor Intel i7 1.70 GHz 12th Gen <br />
