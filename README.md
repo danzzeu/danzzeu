@@ -7,28 +7,13 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danzzeu&theme=transparent&langs_count=8&hide_border=false&background=EBEBEB00&border_radius=5&card_width=970)
 
-|  | My Skills | My Setup |
-| :--------         | :--------         | :--------         |
-|      |      | ⚙️ **Notebook Dell Vostro 3520 i7**     |
-|       |      | ⚙️ **Processor Intel i7 1.70 GHz 12th Gen**     |
-|      |      | ⚙️ **Memory 16GB DDR4**     |
-|      |      | ⚙️ **Graphics Card NVIDIA GeForce MX 550**     |
-|      |      | ⚙️ **64-bit System**     |
-|      |      | ⚙️ **Mouse Dell KM5221W**     |
-|      |      | ⚙️ **Keyboard Dell KM5221W**     |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |     |      |
-|      |      |      |
-
 ## My Links
 🌐 <a href="https://www.linkedin.com/in/danielmazzeulk" rel="follow" target="_blank">Linkedin</a>&nbsp;&nbsp;&nbsp;&nbsp;
 🌐 <a href="https://www.youtube.com/playlist?list=PLiduNjzudndvROdIuM9HornT6zeRk3FDn" rel="follow" target="_blank">Google Play Store</a>&nbsp;&nbsp;&nbsp;&nbsp;
 🌐 <a href="https://www.twitch.tv/danzzeu" rel="follow" target="_blank">Twitch</a>&nbsp;&nbsp;&nbsp;&nbsp;
 🌐 <a href="https://www.youtube.com/playlist?list=PLiduNjzudndvROdIuM9HornT6zeRk3FDn" rel="follow" target="_blank">Youtube</a>&nbsp;&nbsp;&nbsp;&nbsp;
 
-
+## My Skills
 🖥️ **HTML5** 
 🖥️ **CSS3** 
 🖥️ **Bootstrap** 
@@ -40,6 +25,15 @@
 🖥️ **Mysql** 
 🖥️ **Git** 
 🖥️ **React Native**
+
+## My Setup
+⚙️ **Notebook Dell Vostro 3520 i7**
+⚙️ **Processor Intel i7 1.70 GHz 12th Gen**
+⚙️ **Memory 16GB DDR4**
+⚙️ **Graphics Card NVIDIA GeForce MX 550**
+⚙️ **64-bit System**
+⚙️ **Mouse Dell KM5221W**
+⚙️ **Keyboard Dell KM5221W**
 
 ## My Favorite Playlist
 🎵 <a href="https://www.youtube.com/playlist?list=PLiduNjzudndvROdIuM9HornT6zeRk3FDn" rel="follow" target="_blank">Youtube Playlist</a>
