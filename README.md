@@ -10,8 +10,8 @@
 <a href="https://www.youtube.com/playlist?list=PLiduNjzudndvROdIuM9HornT6zeRk3FDn" rel="follow">🌐 Youtube Playlist</a>
 
 ## Minhas Skills
-🖥️ **HTML5** <br/>
-🖥️ **CSS3** <br/>
+🖥️ **HTML5**&nbsp;&nbsp;&nbsp;
+🖥️ **CSS3**&nbsp;&nbsp;&nbsp;
 🖥️ **Javascript** <br/>
 🖥️ **Typescript** <br/>
 🖥️ **Jquery** <br/>
