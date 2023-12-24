@@ -8,8 +8,8 @@ const me = {
   lastName: "Mazzeu",
   age: 33,
   skills: {
-      skill1:"HTML5",
-      skill2:"CSS3",
+      skill1:"Html5",
+      skill2:"Css3",
       skill3:"Javascript"
     }
 };
