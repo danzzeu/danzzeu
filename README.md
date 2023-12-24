@@ -26,4 +26,4 @@
 
 
 ## Playlist Youtube
-<a href="[https://github.com/[removed]](https://www.youtube.com/playlist?list=PLiduNjzudndvROdIuM9HornT6zeRk3FDn)" rel="follow">🎵 Youtube Playlist</a>
+<a href="https://www.youtube.com/playlist?list=PLiduNjzudndvROdIuM9HornT6zeRk3FDn" rel="follow">🎵 Youtube Playlist</a>
