@@ -13,7 +13,7 @@
 | 🌐 <a href="https://www.youtube.com/playlist?list=PLiduNjzudndvROdIuM9HornT6zeRk3FDn" rel="follow" target="_blank">Google Play Store</a>     | 🖥️ **CSS3**     | git status     |
 | 🌐 <a href="https://www.twitch.tv/danzzeu" rel="follow" target="_blank">Twitch</a>     | 🖥️ **Bootstrap**     | git status     |
 | 🌐 <a href="https://www.youtube.com/playlist?list=PLiduNjzudndvROdIuM9HornT6zeRk3FDn" rel="follow" target="_blank">Youtube</a>     | 🖥️ **Bootstrap**     | git status     |
-|      | 🖥️ **Javascript**     | git status     |
+|      | 🖥️ `**Javascript**`     | git status     |
 |      | 🖥️ **Typescript**     | git status     |
 |      | 🖥️ **Jquery**     | git status     |
 |      | 🖥️ **Python**     | git status     |
