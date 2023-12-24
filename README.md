@@ -1,6 +1,7 @@
 ## Hi my name is Daniel Mazzeu 😃
 ## ![](https://komarev.com/ghpvc/?username=your-github-danzzeu&color=blue) 
-> [!NOTE]<em>Programming is actually what I enjoy doing most. The ability to create something from absolute scratch, using only code is something that fascinates me. This universe is an eternal and exciting learning experience.</em>
+> [!NOTE]
+> Programming is actually what I enjoy doing most. The ability to create something from absolute scratch, using only code is something that fascinates me. This universe is an eternal and exciting learning experience.</em>
     <br/><br/>
     <a href="https://www.linkedin.com/in/danielmazzeulk" rel="follow" target="_blank">Linkedin</a><br/>
     <a href="https://www.youtube.com/playlist?list=PLiduNjzudndvROdIuM9HornT6zeRk3FDn" rel="follow" target="_blank">Google Play Store</a><br/>
