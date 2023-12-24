@@ -18,7 +18,7 @@ const me = {
       skill7:  "Python",
       skill8:  "Php",
       skill9:  "Mysql",
-      skill10:  "Git",
+      skill10: "Git",
       skill11: "Css3",
       skill12: "React Native" // Learning...
     }
