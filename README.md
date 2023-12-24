@@ -5,10 +5,10 @@
     <a href="https://www.linkedin.com/in/danielmazzeulk" rel="follow" target="_blank">Linkedin</a><br/>
     <a href="https://www.youtube.com/playlist?list=PLiduNjzudndvROdIuM9HornT6zeRk3FDn" rel="follow" target="_blank">Google Play Store</a><br/>
     <a href="https://www.twitch.tv/danzzeu" rel="follow" target="_blank">Twitch</a><br/>
-    <a href="https://www.youtube.com/playlist?list=PLiduNjzudndvROdIuM9HornT6zeRk3FDn" rel="follow" target="_blank">Youtube Music Playlist</a>
-</blockquote>
+    <a href="https://www.youtube.com/playlist?list=PLiduNjzudndvROdIuM9HornT6zeRk3FDn" rel="follow" target="_blank">Youtube Music Playlist</a><br/><br/>
 
-![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
+    ![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
+</blockquote>
 
 <br>
 
