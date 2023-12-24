@@ -8,7 +8,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danzzeu&theme=transparent&langs_count=8&hide_border=false&background=EBEBEB00&border_radius=5&card_width=970)
 
 | My Links | My Skills | My Setup |
-| :--------         | :-------------         | :--------         |
+| :--------         | :--------         | :--------         |
 | 🌐 <a href="https://www.linkedin.com/in/danielmazzeulk" rel="follow" target="_blank">Linkedin</a>     | 🖥️ **HTML5**     | ⚙️ **Notebook Dell Vostro 3520 i7**     |
 | 🌐 <a href="https://www.youtube.com/playlist?list=PLiduNjzudndvROdIuM9HornT6zeRk3FDn" rel="follow" target="_blank">Google Play Store</a>     | 🖥️ **CSS3**     | ⚙️ **Processor Intel i7 1.70 GHz 12th Gen**     |
 | 🌐 <a href="https://www.twitch.tv/danzzeu" rel="follow" target="_blank">Twitch</a>     | 🖥️ **Bootstrap**     | ⚙️ **Memory 16GB DDR4**     |
