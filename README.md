@@ -11,8 +11,8 @@
 🌐 <a href="https://www.youtube.com/playlist?list=PLiduNjzudndvROdIuM9HornT6zeRk3FDn" rel="follow" target="_blank">Youtube</a> <br/>
 </blockquote>
 
-<blockquote>
 ## My Skills
+<blockquote>
 🖥️ **HTML5** <br/>
 🖥️ **CSS3** <br/>
 🖥️ **Bootstrap** <br/>
@@ -26,8 +26,8 @@
 🖥️ **React Native** <em>[Aprendendo]</em>
 </blockquote>
 
-<blockquote>
 ## My Setup
+<blockquote>
 ⚙️ **Notebook Dell Vostro 3520 i7** <br/>
 ⚙️ **Processor Intel i7 1.70 GHz 12th Gen** <br/>
 ⚙️ **Memory 16GB DDR4** <br/>
@@ -37,7 +37,7 @@
 ⚙️ **Keyboard Dell KM5221W** <br/>
 </blockquote>
 
-<blockquote>
 ## My Favorite Playlist
+<blockquote>
 🎵 <a href="https://www.youtube.com/playlist?list=PLiduNjzudndvROdIuM9HornT6zeRk3FDn" rel="follow" target="_blank">Youtube Playlist</a>
 </blockquote>
