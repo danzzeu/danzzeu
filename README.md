@@ -8,6 +8,8 @@
     <a href="https://www.youtube.com/playlist?list=PLiduNjzudndvROdIuM9HornT6zeRk3FDn" rel="follow" target="_blank">Youtube Music Playlist</a>
 </blockquote>
 
+![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
+
 <br>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=danzzeu&theme=algolia&hide_border=true&border_radius=5&date_format=j%2Fn%5B%2FY%5D&mode=weekly&card_width=970)](https://git.io/streak-stats)
