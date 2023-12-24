@@ -5,7 +5,7 @@
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=danzzeu&theme=solarized-dark&hide_border=false&border_radius=5&card_width=970&background=EBEBEB00" alt="My Status" /></a>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danzzeu&theme=transparent&langs_count=8&background=EBEBEB00&border_radius=5&hide_border=false&card_width=970)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danzzeu&theme=transparent&langs_count=8&background=EBEBEB00&border_radius=5&hide_border=false&card_width=970&border_color=#CCCCCC)
 
 ## My Links
 🌐 <a href="https://www.linkedin.com/in/danielmazzeulk" rel="follow" target="_blank">Linkedin</a> <br/>
