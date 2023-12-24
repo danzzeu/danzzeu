@@ -5,6 +5,7 @@
     <a href="https://www.linkedin.com/in/danielmazzeulk" rel="follow" target="_blank">Linkedin</a><br/>
     <a href="https://www.youtube.com/playlist?list=PLiduNjzudndvROdIuM9HornT6zeRk3FDn" rel="follow" target="_blank">Google Play Store<br/>
     <a href="https://www.twitch.tv/danzzeu" rel="follow" target="_blank">Twitch</a>
+    🎵 <a href="https://www.youtube.com/playlist?list=PLiduNjzudndvROdIuM9HornT6zeRk3FDn" rel="follow" target="_blank">Youtube Playlist</a>
 </blockquote>
 
 <br>
@@ -53,6 +54,3 @@ const me = {
     Mouse Dell KM5221W <br />
     Keyboard Dell KM5221W <br />
 </blockquote>
-
-## My Favorite Playlist
-🎵 <a href="https://www.youtube.com/playlist?list=PLiduNjzudndvROdIuM9HornT6zeRk3FDn" rel="follow" target="_blank">Youtube Playlist</a>
