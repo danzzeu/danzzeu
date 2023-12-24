@@ -3,7 +3,7 @@
 
 <br/>
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=danzzeu&theme=solarized-dark&hide_border=false&border_radius=5&card_width=970&background=EBEBEB00" alt="My Status" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=danzzeu&theme=solarized-dark&hide_border=false&border_radius=5&card_width=970&background=EBEBEB00&border_color=444444" alt="My Status" /></a>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danzzeu&theme=transparent&langs_count=8&hide_border=false&background=EBEBEB00&border_radius=5&card_width=970&border_color=444444)
 
