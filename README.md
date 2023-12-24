@@ -2,7 +2,7 @@
 > [!NOTE]
 > <em>Programming is actually what I enjoy doing most. The ability to create something from absolute scratch, using only code is something that fascinates me. This universe is an eternal and exciting learning experience.</em>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=danzzeu&theme=buefy-dark&width=970&hide_border=true&date_format=j%2Fn%5B%2FY%5D&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=danzzeu&theme=buefy-dark&hide_border=true&date_format=j%2Fn%5B%2FY%5D&mode=weekly&card_width=970)](https://git.io/streak-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danzzeu&theme=transparent&langs_count=8&hide_border=false&background=EBEBEB00&border_radius=5&card_width=970)
 
