@@ -1,8 +1,6 @@
 ## Hi my name is Daniel Mazzeu 😃
-<blockquote><em>Programming is actually what I enjoy doing most. The ability to create something from absolute scratch, using only code is something that fascinates me. This universe is an eternal and exciting learning experience.</em></blockquote>
-
-> [!IMPORTANT]
-> Key information users need to know to achieve their goal.
+> [!NOTE]
+> <em>Programming is actually what I enjoy doing most. The ability to create something from absolute scratch, using only code is something that fascinates me. This universe is an eternal and exciting learning experience.</em>
 
 ## My Skills
 ```javascript
