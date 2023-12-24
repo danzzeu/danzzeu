@@ -9,7 +9,7 @@
 
 | Left-aligned | Center-aligned | Right-aligned |
 | :---         |     :---:      |          ---: |
-| 🌐 <a href="https://www.linkedin.com/in/danielmazzeulk" rel="follow" target="_blank">Linkedin</a> <br/>   | git status     | git status    |
+| 🌐 <a href="https://www.linkedin.com/in/danielmazzeulk" rel="follow" target="_blank">Linkedin</a>   | git status     | git status    |
 | git diff     | git diff       | git diff      |
 
 
