@@ -9,14 +9,14 @@
 
 | Left-aligned | Center-aligned | Right-aligned |
 | :---         |     :---:      |          ---: |
-| 🌐 <a href="https://www.linkedin.com/in/danielmazzeulk" rel="follow" target="_blank">Linkedin</a>     | git status     | git status     |
-| 🌐 <a href="https://www.youtube.com/playlist?list=PLiduNjzudndvROdIuM9HornT6zeRk3FDn" rel="follow" target="_blank">Google Play Store</a>     | git status     | git status     |
-| 🌐 <a href="https://www.twitch.tv/danzzeu" rel="follow" target="_blank">Twitch</a>     | git status     | git status     |
-| 🌐 <a href="https://www.youtube.com/playlist?list=PLiduNjzudndvROdIuM9HornT6zeRk3FDn" rel="follow" target="_blank">Youtube</a>     | git status     | git status     |
-|      | git status     | git status     |
-|      | git status     | git status     |
-|      | git status     | git status     |
-|      | git status     | git status     |
+| 🌐 <a href="https://www.linkedin.com/in/danielmazzeulk" rel="follow" target="_blank">Linkedin</a>     | 🖥️ **HTML5**     | git status     |
+| 🌐 <a href="https://www.youtube.com/playlist?list=PLiduNjzudndvROdIuM9HornT6zeRk3FDn" rel="follow" target="_blank">Google Play Store</a>     | 🖥️ **CSS3**     | git status     |
+| 🌐 <a href="https://www.twitch.tv/danzzeu" rel="follow" target="_blank">Twitch</a>     | 🖥️ **Bootstrap**     | git status     |
+| 🌐 <a href="https://www.youtube.com/playlist?list=PLiduNjzudndvROdIuM9HornT6zeRk3FDn" rel="follow" target="_blank">Youtube</a>     | 🖥️ **Bootstrap**     | git status     |
+|      | 🖥️ **Javascript**     | git status     |
+|      | 🖥️ **Typescript**     | git status     |
+|      | 🖥️ **Jquery**     | git status     |
+|      | 🖥️ **Python**     | git status     |
 
 
 ## My Links
@@ -26,13 +26,13 @@
  <br/>
 
 ## My Skills
-🖥️ **HTML5** <br/>
-🖥️ **CSS3** <br/>
-🖥️ **Bootstrap** <br/>
-🖥️ **Javascript** <br/>
-🖥️ **Typescript** <br/>
-🖥️ **Jquery** <br/>
-🖥️ **Python** <br/>
+ <br/>
+ <br/>
+ <br/>
+ <br/>
+ <br/>
+ <br/>
+ <br/>
 🖥️ **Php** <br/>
 🖥️ **Mysql** <br/>
 🖥️ **Git** <br/>
