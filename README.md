@@ -12,6 +12,7 @@
 ## Minhas Skills
 🖥️ **HTML5** <br/>
 🖥️ **CSS3** <br/>
+🖥️ **Bootstrap** <br/>
 🖥️ **Javascript** <br/>
 🖥️ **Typescript** <br/>
 🖥️ **Jquery** <br/>
