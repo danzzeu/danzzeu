@@ -7,26 +7,39 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danzzeu&theme=transparent&langs_count=8&hide_border=false&background=EBEBEB00&border_radius=5&card_width=970)
 
-| My Links | My Skills | My Setup |
+|  | My Skills | My Setup |
 | :--------         | :--------         | :--------         |
-|      | 🖥️ **HTML5**     | ⚙️ **Notebook Dell Vostro 3520 i7**     |
-|       | 🖥️ **CSS3**     | ⚙️ **Processor Intel i7 1.70 GHz 12th Gen**     |
-|      | 🖥️ **Bootstrap**     | ⚙️ **Memory 16GB DDR4**     |
-|      | 🖥️ **Bootstrap**     | ⚙️ **Graphics Card NVIDIA GeForce MX 550**     |
-|      | 🖥️ **Javascript**     | ⚙️ **64-bit System**     |
-|      | 🖥️ **Typescript**     | ⚙️ **Mouse Dell KM5221W**     |
-|      | 🖥️ **Jquery**     | ⚙️ **Keyboard Dell KM5221W**     |
-|      | 🖥️ **Python**     |      |
-|      | 🖥️ **Php**     |      |
-|      | 🖥️ **Mysql**     |      |
-|      | 🖥️ **Git**     |      |
-|      | 🖥️ **React Native**     |      |
+|      |      | ⚙️ **Notebook Dell Vostro 3520 i7**     |
+|       |      | ⚙️ **Processor Intel i7 1.70 GHz 12th Gen**     |
+|      |      | ⚙️ **Memory 16GB DDR4**     |
+|      |      | ⚙️ **Graphics Card NVIDIA GeForce MX 550**     |
+|      |      | ⚙️ **64-bit System**     |
+|      |      | ⚙️ **Mouse Dell KM5221W**     |
+|      |      | ⚙️ **Keyboard Dell KM5221W**     |
+|      |      |      |
+|      |      |      |
+|      |      |      |
+|      |     |      |
+|      |      |      |
 
-🌐 `<a href="https://www.linkedin.com/in/danielmazzeulk" rel="follow" target="_blank">`Linkedin</a>&nbsp;&nbsp;&nbsp;&nbsp;
+## My Links
+🌐 <a href="https://www.linkedin.com/in/danielmazzeulk" rel="follow" target="_blank">Linkedin</a>&nbsp;&nbsp;&nbsp;&nbsp;
 🌐 <a href="https://www.youtube.com/playlist?list=PLiduNjzudndvROdIuM9HornT6zeRk3FDn" rel="follow" target="_blank">Google Play Store</a>&nbsp;&nbsp;&nbsp;&nbsp;
 🌐 <a href="https://www.twitch.tv/danzzeu" rel="follow" target="_blank">Twitch</a>&nbsp;&nbsp;&nbsp;&nbsp;
 🌐 <a href="https://www.youtube.com/playlist?list=PLiduNjzudndvROdIuM9HornT6zeRk3FDn" rel="follow" target="_blank">Youtube</a>&nbsp;&nbsp;&nbsp;&nbsp;
 
+
+🖥️ **HTML5** &nbsp;&nbsp;&nbsp;&nbsp;
+🖥️ **CSS3** &nbsp;&nbsp;&nbsp;&nbsp;
+🖥️ **Bootstrap** &nbsp;&nbsp;&nbsp;&nbsp;
+🖥️ **Javascript** &nbsp;&nbsp;&nbsp;&nbsp;
+🖥️ **Typescript** &nbsp;&nbsp;&nbsp;&nbsp;
+🖥️ **Jquery** &nbsp;&nbsp;&nbsp;&nbsp;
+🖥️ **Python** &nbsp;&nbsp;&nbsp;&nbsp;
+🖥️ **Php** &nbsp;&nbsp;&nbsp;&nbsp;
+🖥️ **Mysql** &nbsp;&nbsp;&nbsp;&nbsp;
+🖥️ **Git** &nbsp;&nbsp;&nbsp;&nbsp;
+🖥️ **React Native**
  <br/>
 
 ## My Favorite Playlist
