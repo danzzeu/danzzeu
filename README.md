@@ -42,13 +42,13 @@ const me = {
 🌐 <a href="https://www.twitch.tv/danzzeu" rel="follow" target="_blank">Twitch</a> <br />
 
 ## My Setup
-⚙️ Notebook Dell Vostro 3520 i7 <br />
-⚙️ Processor Intel i7 1.70 GHz 12th Gen <br />
-⚙️ Memory 16GB DDR4 <br />
-⚙️ Graphics Card NVIDIA GeForce MX 550 <br />
-⚙️ 64-bit System <br />
-⚙️ Mouse Dell KM5221W <br />
-⚙️ Keyboard Dell KM5221W <br />
++ Notebook Dell Vostro 3520 i7 <br />
++ Processor Intel i7 1.70 GHz 12th Gen <br />
++ Memory 16GB DDR4 <br />
++ Graphics Card NVIDIA GeForce MX 550 <br />
++ 64-bit System <br />
++ Mouse Dell KM5221W <br />
++ Keyboard Dell KM5221W <br />
 
 ## My Favorite Playlist
 🎵 <a href="https://www.youtube.com/playlist?list=PLiduNjzudndvROdIuM9HornT6zeRk3FDn" rel="follow" target="_blank">Youtube Playlist</a>
