@@ -10,13 +10,12 @@
 🖥️ CSS3 <br/>
 🖥️ Javascript <br/>
 🖥️ Typescript <br/>
-![Jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![Php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![Visul Studio](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-
+🖥️ Jquery <br/>
+🖥️ Python <br/>
+🖥️ Php <br/>
+🖥️ Mysql <br/>
+🖥️ Git <br/>
+🖥️ Visul Studio <br/>
 
 ## Meus Status
 ![status1](https://github-readme-stats.vercel.app/api?username=danzzeu&theme=merko)
