@@ -7,6 +7,12 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danzzeu&theme=transparent&langs_count=8&hide_border=false&background=EBEBEB00&border_radius=5&card_width=970)
 
+| Left-aligned | Center-aligned | Right-aligned |
+| :---         |     :---:      |          ---: |
+| git status   | git status     | git status    |
+| git diff     | git diff       | git diff      |
+
+
 ## My Links
 🌐 <a href="https://www.linkedin.com/in/danielmazzeulk" rel="follow" target="_blank">Linkedin</a> <br/>
 🌐 <a href="https://www.youtube.com/playlist?list=PLiduNjzudndvROdIuM9HornT6zeRk3FDn" rel="follow" target="_blank">Google Play Store</a> <br/>
