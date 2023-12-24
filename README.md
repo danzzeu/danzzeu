@@ -8,10 +8,9 @@
 </blockquote>
 
 <br>
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=danzzeu&theme=algolia&hide_border=true&border_radius=5&date_format=j%2Fn%5B%2FY%5D&mode=weekly&card_width=970)](https://git.io/streak-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danzzeu&theme=algolia&langs_count=8&hide_border=false&background=EBEBEB00&border_radius=5&card_width=970)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danzzeu&theme=algolia&langs_count=8&hide_border=false&background=EBEBEB00&border_radius=5&card_width=970)
 <br>
 
 ## My Skills
