@@ -3,7 +3,8 @@
 > <em>Programming is actually what I enjoy doing most. The ability to create something from absolute scratch, using only code is something that fascinates me. This universe is an eternal and exciting learning experience.</em>
 
 ## My Skills
-```javascript
+> [!IMPORTANT]
+> ```javascript
 const me = {
   name: "Daniel",
   lastName: "Mazzeu",
