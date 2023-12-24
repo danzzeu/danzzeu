@@ -13,22 +13,16 @@
 | 🌐 <a href="https://www.youtube.com/playlist?list=PLiduNjzudndvROdIuM9HornT6zeRk3FDn" rel="follow" target="_blank">Google Play Store</a>     | 🖥️ **CSS3**     | ⚙️ **Processor Intel i7 1.70 GHz 12th Gen**     |
 | 🌐 <a href="https://www.twitch.tv/danzzeu" rel="follow" target="_blank">Twitch</a>     | 🖥️ **Bootstrap**     | ⚙️ **Memory 16GB DDR4**     |
 | 🌐 <a href="https://www.youtube.com/playlist?list=PLiduNjzudndvROdIuM9HornT6zeRk3FDn" rel="follow" target="_blank">Youtube</a>     | 🖥️ **Bootstrap**     | ⚙️ **Graphics Card NVIDIA GeForce MX 550**     |
-|      | 🖥️ **Javascript**     | git status     |
-|      | 🖥️ **Typescript**     | git status     |
-|      | 🖥️ **Jquery**     | git status     |
-|      | 🖥️ **Python**     | git status     |
-|      | 🖥️ **Php**     | git status     |
-|      | 🖥️ **Mysql**     | git status     |
-|      | 🖥️ **Git**     | git status     |
-|      | 🖥️ **React Native**     | git status     |
+|      | 🖥️ **Javascript**     | ⚙️ **64-bit System**     |
+|      | 🖥️ **Typescript**     | ⚙️ **Mouse Dell KM5221W**     |
+|      | 🖥️ **Jquery**     | ⚙️ **Keyboard Dell KM5221W**     |
+|      | 🖥️ **Python**     |      |
+|      | 🖥️ **Php**     |      |
+|      | 🖥️ **Mysql**     |      |
+|      | 🖥️ **Git**     |      |
+|      | 🖥️ **React Native**     |      |
 
  <br/>
- <br/>
- <br/>
- <br/>
-⚙️ **64-bit System** <br/>
-⚙️ **Mouse Dell KM5221W** <br/>
-⚙️ **Keyboard Dell KM5221W** <br/>
 
 ## My Favorite Playlist
 🎵 <a href="https://www.youtube.com/playlist?list=PLiduNjzudndvROdIuM9HornT6zeRk3FDn" rel="follow" target="_blank">Youtube Playlist</a>
