@@ -43,15 +43,14 @@ const me = {
 ```
 
 ## My Setup
-<blockquote>
-    Notebook Dell Vostro 3520 i7 <br />
-    Processor Intel i7 1.70 GHz 12th Gen <br />
-    Memory 16GB DDR4 <br />
-    Graphics Card NVIDIA GeForce MX 550 <br />
-    64-bit System <br />
-    Mouse Dell KM5221W <br />
-    Keyboard Dell KM5221W <br />
-</blockquote>
+> [!NOTE]
+> Notebook Dell Vostro 3520 i7 <br />
+>    Processor Intel i7 1.70 GHz 12th Gen <br />
+>    Memory 16GB DDR4 <br />
+>    Graphics Card NVIDIA GeForce MX 550 <br />
+>    64-bit System <br />
+>    Mouse Dell KM5221W <br />
+>    Keyboard Dell KM5221W <br />
 
 <br /><br />
 ![](https://komarev.com/ghpvc/?username=your-github-danzzeu&color=blue) 
