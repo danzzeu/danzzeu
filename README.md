@@ -36,9 +36,13 @@
 ⚙️ **Keyboard Dell KM5221W** <br />
 
 ```ruby
-require 'redcarpet'
-markdown = Redcarpet.new("Hello World!")
-puts markdown.to_html
+Christmas tree initializer
+    toConnect = []
+    toRead =   [  ]
+    toWrite = [    ]
+    primes = [      ]
+    responses = {}
+    remaining = {}
 ```
 
 ## My Favorite Playlist
