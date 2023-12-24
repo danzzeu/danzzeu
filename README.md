@@ -7,10 +7,12 @@
 <a href="https://www.youtube.com/playlist?list=PLiduNjzudndvROdIuM9HornT6zeRk3FDn" rel="follow">🎵 Youtube</a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.youtube.com/playlist?list=PLiduNjzudndvROdIuM9HornT6zeRk3FDn" rel="follow">🎵 Youtube Playlist</a>
 
-<br/><br/>
+<br/>
 
 ## Meu Status
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=danzzeu&theme=solarized-dark&hide_border=true&border_radius=5&card_width=950&background=EBEBEB00" alt="GitHub Streak" /></a>
+
+<br/>
 
 ## Minhas Skills
 🖥️ **HTML5** <br/>
@@ -22,6 +24,8 @@
 🖥️ **Php** <br/>
 🖥️ **Mysql** <br/>
 🖥️ **Git** <br/>
+
+<br/>
 
 ## Meu Setup
 ⚙️ **Notebook Dell Vostro 3520 i7** <br/>
