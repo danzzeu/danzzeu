@@ -13,8 +13,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danzzeu&theme=algolia&langs_count=8&hide_border=false&background=EBEBEB00&border_radius=5&card_width=970)
 
-<br>
-
 ## My Skills
 ```javascript
 const me = {
