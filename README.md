@@ -6,10 +6,10 @@
 
 
 ## Minhas Skills
-🖥️ HTML5
-\🖥️ CSS3
-\🖥️ Javascript
-\🖥️ Typescript
+🖥️ HTML5 <br/>
+🖥️ CSS3 <br/>
+🖥️ Javascript <br/>
+🖥️ Typescript <br/>
 ![Jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![Php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
