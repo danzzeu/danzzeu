@@ -34,8 +34,7 @@
 
 
 ## Playlist Youtube
-
-![[Playlist](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white)]
+[![Youtube]([https://i.stack.imgur.com/gVE0j.png](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white)) Youtube]([https://www.linkedin.com/](https://www.youtube.com/playlist?list=PLiduNjzudndvROdIuM9HornT6zeRk3FDn))
 
 
 ## Indicação de plataforma de estudos
