@@ -3,7 +3,7 @@
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=danzzeu&theme=solarized-dark&hide_border=true&border_radius=5&card_width=950&background=EBEBEB00" alt="GitHub Streak" /></a>
 
 ## Meus Links
-🌐 <a href="https://www.youtube.com/playlist?list=PLiduNjzudndvROdIuM9HornT6zeRk3FDn" style="text-decoration=none !importamt;" rel="follow">Linkedin</a> <br/>
+🌐 <a href="https://www.youtube.com/playlist?list=PLiduNjzudndvROdIuM9HornT6zeRk3FDn" style="margin-bottom:10px;" rel="follow">Linkedin</a> <br/>
 🌐 <a href="https://www.youtube.com/playlist?list=PLiduNjzudndvROdIuM9HornT6zeRk3FDn" rel="follow">Google Play Store</a> <br/>
 🌐 <a href="https://www.youtube.com/playlist?list=PLiduNjzudndvROdIuM9HornT6zeRk3FDn" rel="follow">Twitch</a> <br/>
 🌐 <a href="https://www.youtube.com/playlist?list=PLiduNjzudndvROdIuM9HornT6zeRk3FDn" rel="follow">Youtube</a> <br/>
