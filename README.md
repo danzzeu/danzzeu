@@ -7,7 +7,11 @@ const me = {
   name: "Daniel",
   lastName: "Mazzeu",
   age: 33,
-  skills: "blue"
+  skills: {
+      skill1:"HTML5",
+      skill2:"CSS3",
+      skill3:"Javascript"
+    }
 };
 ```
 
