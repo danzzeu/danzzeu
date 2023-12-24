@@ -8,7 +8,7 @@ const me = {
     name: "Daniel",
     lastName: "Mazzeu",
     age: 33,
-    location: "Brazil"
+    location: "Brazil",
     specialty: "Front-End Developer",
     languages: {
         portuguese: "native",
