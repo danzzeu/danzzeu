@@ -29,16 +29,16 @@
 🌐 <a href="https://www.youtube.com/playlist?list=PLiduNjzudndvROdIuM9HornT6zeRk3FDn" rel="follow" target="_blank">Youtube</a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-🖥️ **HTML5** &nbsp;&nbsp;&nbsp;&nbsp;
-🖥️ **CSS3** &nbsp;&nbsp;&nbsp;&nbsp;
-🖥️ **Bootstrap** &nbsp;&nbsp;&nbsp;&nbsp;
-🖥️ **Javascript** &nbsp;&nbsp;&nbsp;&nbsp;
-🖥️ **Typescript** &nbsp;&nbsp;&nbsp;&nbsp;
-🖥️ **Jquery** &nbsp;&nbsp;&nbsp;&nbsp;
-🖥️ **Python** &nbsp;&nbsp;&nbsp;&nbsp;
-🖥️ **Php** &nbsp;&nbsp;&nbsp;&nbsp;
-🖥️ **Mysql** &nbsp;&nbsp;&nbsp;&nbsp;
-🖥️ **Git** &nbsp;&nbsp;&nbsp;&nbsp;
+🖥️ **HTML5** 
+🖥️ **CSS3** 
+🖥️ **Bootstrap** 
+🖥️ **Javascript** 
+🖥️ **Typescript** 
+🖥️ **Jquery** 
+🖥️ **Python** 
+🖥️ **Php** 
+🖥️ **Mysql** 
+🖥️ **Git** 
 🖥️ **React Native**
 
 ## My Favorite Playlist
