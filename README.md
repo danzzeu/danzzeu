@@ -13,10 +13,10 @@
 | 🌐 <a href="https://www.youtube.com/playlist?list=PLiduNjzudndvROdIuM9HornT6zeRk3FDn" rel="follow" target="_blank">Google Play Store</a>     | git status     | git status     |
 | 🌐 <a href="https://www.twitch.tv/danzzeu" rel="follow" target="_blank">Twitch</a>     | git status     | git status     |
 | 🌐 <a href="https://www.youtube.com/playlist?list=PLiduNjzudndvROdIuM9HornT6zeRk3FDn" rel="follow" target="_blank">Youtube</a>     | git status     | git status     |
-| 🌐 <a href="https://www.linkedin.com/in/danielmazzeulk" rel="follow" target="_blank">Linkedin</a>     | git status     | git status     |
-| 🌐 <a href="https://www.linkedin.com/in/danielmazzeulk" rel="follow" target="_blank">Linkedin</a>     | git status     | git status     |
-| 🌐 <a href="https://www.linkedin.com/in/danielmazzeulk" rel="follow" target="_blank">Linkedin</a>     | git status     | git status     |
-| 🌐 <a href="https://www.linkedin.com/in/danielmazzeulk" rel="follow" target="_blank">Linkedin</a>     | git status     | git status     |
+|      | git status     | git status     |
+|      | git status     | git status     |
+|      | git status     | git status     |
+|      | git status     | git status     |
 
 
 ## My Links
