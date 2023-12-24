@@ -6,6 +6,11 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danzzeu&theme=highcontras&langs_count=8&hide_border=false&background=EBEBEB00&border_radius=5&card_width=970)
 
+- [x] #739
+- [ ] https://github.com/octo-org/octo-repo/issues/740
+- [ ] Add delight to the experience when all tasks are complete :tada:
+
+
 ## My Skills
 ```javascript
 const me = {
