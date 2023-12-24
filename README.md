@@ -1,12 +1,11 @@
 ## Olá eu sou o Daniel Mazzeu 😃
-
 ![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 ![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)
 ![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)
 
 
-## Minhas Skills
 
+## Minhas Skills
 ![Html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -18,10 +17,11 @@
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Visul Studio](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
+
 ## Meus Status
 ![naosei](https://github-readme-stats.vercel.app/api?username=danzzeu&theme=merko)
-
 ![naosei2](https://github-readme-stats.vercel.app/api/top-langs/?username=danzzeu&theme=merko)
+
 
 ## Meu Setup
 + **Notebook Dell Vostro 3520 i7**
@@ -32,11 +32,14 @@
 + **Mouse Dell KM5221W**
 + **Keyboard Dell KM5221W**
 
+
 ## Playlist Youtube
 ![Playlist](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white)
 
+
 ## Indicação de plataforma de estudos
 ![Udemy](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)
+
 
 ## Browser Favorito
 ![Chrome](https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)
