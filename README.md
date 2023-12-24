@@ -18,7 +18,7 @@
 🖥️ **Python** <br/>
 🖥️ **Php** <br/>
 🖥️ **Mysql** <br/>
-🖥️ **Git**
+🖥️ **Git** <br/>
 🖥️ **React Native** [Aprendendo]
 
 ## Meu Setup
