@@ -40,7 +40,6 @@
 🖥️ **Mysql** &nbsp;&nbsp;&nbsp;&nbsp;
 🖥️ **Git** &nbsp;&nbsp;&nbsp;&nbsp;
 🖥️ **React Native**
- <br/>
 
 ## My Favorite Playlist
 🎵 <a href="https://www.youtube.com/playlist?list=PLiduNjzudndvROdIuM9HornT6zeRk3FDn" rel="follow" target="_blank">Youtube Playlist</a>
