@@ -34,7 +34,11 @@
 
 
 ## Playlist Youtube
-[![Youtube]([https://i.stack.imgur.com/gVE0j.png](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white))]([https://www.linkedin.com/](https://www.youtube.com/playlist?list=PLiduNjzudndvROdIuM9HornT6zeRk3FDn))
+<p>
+  <a href="[https://github.com/[removed]](https://www.youtube.com/playlist?list=PLiduNjzudndvROdIuM9HornT6zeRk3FDn)" rel="follow">
+    <img src="https://i.stack.imgur.com/tskMh.png" alt="Youtube"> Youtube Playlist
+  </a>
+</p>
 
 
 ## Indicação de plataforma de estudos
