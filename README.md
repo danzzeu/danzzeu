@@ -3,13 +3,12 @@
 
 ## Merry Christmas 🎄
 ```javascript
-Christmas tree initializer
-    toConnect = []
-    toRead =   [  ]
-    toWrite = [    ]
-    primes = [      ]
-    responses = {}
-    remaining = {}
+const me = {
+  name: "Daniel",
+  lastName: "Mazzeu",
+  age: 33,
+  skills: "blue"
+};
 ```
 
 <br/>
