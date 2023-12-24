@@ -34,11 +34,7 @@
 
 
 ## Playlist Youtube
-<p>
-  <a href="[https://github.com/[removed]](https://www.youtube.com/playlist?list=PLiduNjzudndvROdIuM9HornT6zeRk3FDn)" rel="follow">
-    <img src="https://i.stack.imgur.com/tskMh.png" alt="Youtube"> Youtube Playlist
-  </a>
-</p>
+<p><a href="[https://github.com/[removed]](https://www.youtube.com/playlist?list=PLiduNjzudndvROdIuM9HornT6zeRk3FDn)" rel="follow">🎵 Youtube Playlist</a></p>
 
 
 ## Indicação de plataforma de estudos
