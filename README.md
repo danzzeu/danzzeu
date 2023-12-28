@@ -22,18 +22,18 @@ const me = {
     specialty: "Front-End Developer",
     languages: {
         portuguese: "native",
-        english:    "fluent",
-        spanish:    "basic"
+        english: "fluent",
+        spanish: "basic"
     },
     skills: {
-        skill1:  "Html5",
-        skill2:  "Css3",
-        skill3:  "Bootstrap",
-        skill4:  "Javascript / Typescript",
-        skill6:  "Jquery",
-        skill7:  "Python",
-        skill8:  "Php",
-        skill9:  "Mysql",
+        skill1: "Html5",
+        skill2: "Css3",
+        skill3: "Bootstrap",
+        skill4: "Javascript / Typescript",
+        skill6: "Jquery",
+        skill7: "Python",
+        skill8: "Php",
+        skill9: "Mysql",
         skill10: "Git",
         skill11: "React Native" // Learning...
     }
