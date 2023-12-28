@@ -8,7 +8,7 @@
 
 <br />
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=danzzeu&theme=algolia&hide_border=true&border_radius=5&date_format=j%2Fn%5B%2FY%5D&mode=weekly&card_width=1000)](https://git.io/streak-stats)
+<img src="https://streak-stats.demolab.com?user=danzzeu&theme=algolia&hide_border=true&border_radius=5&date_format=j%2Fn%5B%2FY%5D&mode=weekly&card_width=1000"/>
 
 <img src="https://github-readme-stats.vercel.app/api?username=danzzeu&show_icons=true&border_radius=5&hide_border&theme=algolia&include_all_commits=true&count_private=true&card_width=1000"/>
 
