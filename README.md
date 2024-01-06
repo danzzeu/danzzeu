@@ -32,8 +32,10 @@ const me = {
         skill7: "Python",
         skill8: "Php",
         skill9: "Mysql",
-        skill10: "Git",
-        skill11: "React Native" // Learning...
+        skill10: "SQLServer",
+        skill11: "Git",
+        skill12: "Angular", // Learning...
+        skill13: "React Native" // Learning...
     }
 };
 ```
