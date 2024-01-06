@@ -4,7 +4,6 @@
 > <a href="https://www.linkedin.com/in/danzzeu" rel="nofollow" target="_blank">Linkedin</a><br />
 > <a href="https://www.youtube.com/playlist?list=PLiduNjzudndvROdIuM9HornT6zeRk3FDn" rel="nofollow" target="_blank">Google Play Store</a><br />
 > <a href="https://www.twitch.tv/danzzeu" rel="nofollow" target="_blank">Twitch</a><br />
-> <a href="https://www.youtube.com/playlist?list=PLiduNjzudndvROdIuM9HornT6zeRk3FDn" rel="nofollow" target="_blank">Youtube Music Playlist</a>
 
 <br />
 
